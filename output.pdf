@@ -1,0 +1,582 @@
+--------------------------------------------
+| #  #   #   #   #  #### #   #   #   #   # |
+| #  #  # #  ##  # #     ## ##  # #  ##  # |
+| #### ##### # # # #  ## # # # ##### # # # |
+| #  # #   # #  ## #   # #   # #   # #  ## |
+| #  # #   # #   #  ###  #   # #   # #   # |
+--------------------------------------------
+
+Welcome to the game Hangman!
+
+The objective in this game is to guess the word. 
+You can enter both uppercase and lowercase letters.
+If you think you know the word, you can type it in.
+You will lose if you have guessed 10 letters wrong.
+
+This is the word you need to guess: .....
+
+1.   Enter the letter(s) you want to guess: xxxxxxxxxx
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 1
+
+
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+2.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+3.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 3
+
+  _______
+  |/
+  |
+  |
+  |
+  |
+__|_________
+
+4.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+5.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 5
+
+  _______
+  |/   | 
+  |    O 
+  |    |
+  |    |
+  |
+__|_________
+
+6.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 6
+
+  _______
+  |/   | 
+  |    O 
+  |   \|
+  |    | 
+  |
+__|_________
+
+7.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 7
+
+  _______
+  |/   | 
+  |    O 
+  |   \|/
+  |    | 
+  |
+__|_________
+
+8.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 8
+
+  _______
+  |/   | 
+  |    O 
+  |   \|/
+  |    | 
+  |   /
+__|_________
+
+9.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 9
+
+  _______
+  |/   | 
+  |    O 
+  |   \|/
+  |    | 
+  |   / \
+__|_________
+
+10.
+The letter x was incorrect. 
+
+The word including letters you guessed: .....
+
+Amount of wrong letters: 10
+
+  _______
+  |/   | 
+  |    X 
+  |   \|/
+  |    | 
+  |   / \
+__|_________
+
+---------------
+--- Results ---
+---------------
+
+You guessed the wrong word. The word was hello. Better luck next time!
+
+
+--------------------------------------------
+| #  #   #   #   #  #### #   #   #   #   # |
+| #  #  # #  ##  # #     ## ##  # #  ##  # |
+| #### ##### # # # #  ## # # # ##### # # # |
+| #  # #   # #  ## #   # #   # #   # #  ## |
+| #  # #   # #   #  ###  #   # #   # #   # |
+--------------------------------------------
+
+Welcome to the game Hangman!
+
+The objective in this game is to guess the word. 
+You can enter both uppercase and lowercase letters.
+If you think you know the word, you can type it in.
+You will lose if you have guessed 10 letters wrong.
+
+This is the word you need to guess: ...........
+
+1.   Enter the letter(s) you want to guess: ha
+The letter h was incorrect. 
+
+The word including letters you guessed: ...........
+
+Amount of wrong letters: 1
+
+
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+2.
+The letter a was incorrect. 
+
+The word including letters you guessed: ...........
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+3.   Enter the letter(s) you want to guess: mi
+The letter m was correct.
+
+The word including letters you guessed: m..........
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+4.
+The letter i was correct.
+
+The word including letters you guessed: mi..i..i..i
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+5.   Enter the letter(s) you want to guess: s
+The letter s was correct.
+
+The word including letters you guessed: mississi..i
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+6.   Enter the letter(s) you want to guess: p
+The letter p was correct.
+
+The word including letters you guessed: mississippi
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+---------------
+--- Results ---
+---------------
+
+Congratulations you guessed the right word!
+
+
+
+--------------------------------------------
+| #  #   #   #   #  #### #   #   #   #   # |
+| #  #  # #  ##  # #     ## ##  # #  ##  # |
+| #### ##### # # # #  ## # # # ##### # # # |
+| #  # #   # #  ## #   # #   # #   # #  ## |
+| #  # #   # #   #  ###  #   # #   # #   # |
+--------------------------------------------
+
+Welcome to the game Hangman!
+
+The objective in this game is to guess the word. 
+You can enter both uppercase and lowercase letters.
+If you think you know the word, you can type it in.
+You will lose if you have guessed 10 letters wrong.
+
+This is the word you need to guess: .........
+
+1.   Enter the letter(s) you want to guess: ha
+The letter h was incorrect. 
+
+The word including letters you guessed: .........
+
+Amount of wrong letters: 1
+
+
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+2.
+The letter a was incorrect. 
+
+The word including letters you guessed: .........
+
+Amount of wrong letters: 2
+
+  _______
+  |
+  |
+  |
+  |
+  |
+__|_________
+
+3.   Enter the letter(s) you want to guess: m
+The letter m was incorrect. 
+
+The word including letters you guessed: .........
+
+Amount of wrong letters: 3
+
+  _______
+  |/
+  |
+  |
+  |
+  |
+__|_________
+
+4.   Enter the letter(s) you want to guess: t
+The letter t was incorrect. 
+
+The word including letters you guessed: .........
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+5.   Enter the letter(s) you want to guess: e
+The letter e was correct.
+
+The word including letters you guessed: ........e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+6.   Enter the letter(s) you want to guess: i
+The letter i was correct.
+
+The word including letters you guessed: ......i.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+7.   Enter the letter(s) you want to guess: o 
+The letter o was correct.
+
+The word including letters you guessed: .o....i.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+8.   Enter the letter(s) you want to guess: 
+The letter u was correct.
+
+The word including letters you guessed: .o..u.i.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+9.   Enter the letter(s) you want to guess: p
+The letter p was correct.
+
+The word including letters you guessed: po..upi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+10.   Enter the letter(s) you want to guess: c
+The letter c was correct.
+
+The word including letters you guessed: po.cupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+11.   Enter the letter(s) you want to guess: porcupine
+The letter p was correct.
+
+The word including letters you guessed: po.cupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+12.
+The letter o was correct.
+
+The word including letters you guessed: po.cupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+13.
+The letter r was correct.
+
+The word including letters you guessed: porcupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+14.
+The letter c was correct.
+
+The word including letters you guessed: porcupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+15.
+The letter u was correct.
+
+The word including letters you guessed: porcupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+16.
+The letter p was correct.
+
+The word including letters you guessed: porcupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+17.
+The letter i was correct.
+
+The word including letters you guessed: porcupi.e
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+18.
+The letter n was correct.
+
+The word including letters you guessed: porcupine
+
+Amount of wrong letters: 4
+
+  _______
+  |/   | 
+  |    O 
+  |
+  |
+  |
+__|_________
+
+19.
+---------------
+--- Results ---
+---------------
+
+Congratulations you guessed the right word!
